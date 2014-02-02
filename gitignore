@@ -1,10 +1,6 @@
  $ git status
-    [...]
-    # Untracked files:
-    [...]
-   
-    [...]
-    $ cat .git/info/exclude
+  
+    
     # ignore objects and archives, anywhere in the tree.
-   node_modules
+   **/node_modules
  
